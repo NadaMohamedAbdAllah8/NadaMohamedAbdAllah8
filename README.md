@@ -74,7 +74,6 @@
       height="40"
     />
   </a>
-
   <a
     href="https://www.microsoft.com/en-us/sql-server"
     target="_blank"
